@@ -57,6 +57,15 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Role-based colors */
+    --admin-dark: 240 5.9% 10%;
+    --teacher-green: 142 71.8% 29.2%;
+    --staff-amber: 38 92.1% 50.2%;
+    --student-blue: 217 91.2% 59.8%;
+    --status-pending: 38 92.1% 50.2%;
+    --status-approved: 142 71.8% 29.2%;
+    --status-rejected: 0 84.2% 60.2%;
   }
 
   .dark {

@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "role-admin": "hsl(var(--admin-dark))",
+        "role-teacher": "hsl(var(--teacher-green))",
+        "role-staff": "hsl(var(--staff-amber))",
+        "role-student": "hsl(var(--student-blue))",
+        "status-pending": "hsl(var(--status-pending))",
+        "status-approved": "hsl(var(--status-approved))",
+        "status-rejected": "hsl(var(--status-rejected))",
       },
       borderRadius: {
         lg: "var(--radius)",
